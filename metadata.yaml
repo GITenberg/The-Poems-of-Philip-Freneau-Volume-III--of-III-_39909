@@ -1,0 +1,37 @@
+_repo: The-Poems-of-Philip-Freneau-Volume-III--of-III-_39909
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freneau, Philip Morin
+    aliases:
+    - Salem, Hezekiah
+    - Slender, Robert
+    birthdate: 1752
+    deathdate: 1832
+    gutenberg_agent_id: '39486'
+    url: http://www.gutenberg.org/2009/agents/39486
+  editor:
+    agent_name: Pattee, Fred Lewis
+    birthdate: 1863
+    deathdate: 1950
+    gutenberg_agent_id: '39487'
+    url: http://www.gutenberg.org/2009/agents/39487
+    wikipedia: https://en.wikipedia.org/wiki/Fred_Lewis_Pattee
+description: ''
+gutenberg_issued: '2012-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+title: The Poems of Philip Freneau, Poet of the American Revolution. Volume 3 (of
+  3)
+url: http://www.gutenberg.org/ebooks/39909
